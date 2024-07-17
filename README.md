@@ -1,4 +1,5 @@
 # Welcome to my GitHub Profile!
+In addition to this page, be sure to checkout my [Portfolio Page here!](https://nicholasriegel.com/)
 ## About
 A thoughtful and analytical full-stack developer with an eye for visual aesthetics. Excellent communication and interpersonal skills developed through previous academic career. Enjoys the logical, mathematical and linguistic aspects of programming, and takes pride in harnessing the power of simplicity.
 
