@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 ## About
-A thoughtful and analytical full-stack developer with an eye for visual aesthetics. My previous experience in academia has allowed me to develop excellent communication and interpersonal skills. I truly enjoy the logical, mathematical and linguistic aspects of programming, and take pride in harnessing the power of simplicity.
+A thoughtful and analytical full-stack developer with an eye for visual aesthetics. Excellent communication and interpersonal skills developed through previous academic career. Enjoys the logical, mathematical and linguistic aspects of programming, and takes pride in harnessing the power of simplicity.
 
 ## Languages
 <div style="display: flex; justify-content: space-between;">
