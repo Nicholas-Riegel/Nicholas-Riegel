@@ -1,4 +1,7 @@
 # Welcome to my GitHub Profile!
+## About
+A thoughtful and analytical full-stack developer with an eye for visual aesthetics. My previous experience in academia has allowed me to develop excellent communication and interpersonal skills. I truly enjoy the logical, mathematical and linguistic aspects of programming, and take pride in harnessing the power of simplicity.
+
 ## Languages
 <div style="display: flex; justify-content: space-between;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75"/>
